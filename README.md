@@ -1,5 +1,20 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Resume
+
+* The application provide a authentication and a sign up.
+* Provide a Dashboard whith a list of projects.
+* Notifications alert
+* Adding a project.
+
+## Built With
+
+* 	[Firebase](https://firebase.google.com/docs/auth) - Firebase Auth
+* 	[Firestore](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) - Firestore cloud functions and database
+* 	[ReactJs](https://fr.reactjs.org/) - Javascript Library
+* 	[Redux](https://redux.js.org/) - State container for Javascript Apps
+* 	[Thunk](https://git-scm.com/) - middleware for Redux
+
 ## Available Scripts
 
 In the project directory, you can run:
