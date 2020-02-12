@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Project is Hotsed on
+```
+    https://net-ninja-marioplan-5409c.firebaseapp.com/signin
+```
+
 ## Resume
 
 * The application provide a authentication and a sign up.
@@ -81,3 +86,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+## Resources
+
+* [Net Ninja Blog](https://www.thenetninja.co.uk/)
